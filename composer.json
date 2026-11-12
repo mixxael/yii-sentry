@@ -6,7 +6,7 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "yiisoft/yii": "^1.1",
-        "sentry/sdk": "^3.0"
+        "sentry/sentry": "^3.0|^4.0"
     },
     "require-dev":{
         "mockery/mockery": "^1.4",
